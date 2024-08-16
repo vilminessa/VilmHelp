@@ -2,7 +2,7 @@
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:VilmHelp"
-             StartupUri="MainWindow.xaml">
+             StartupUri="Windows/Start_Base.xaml">
     <Application.Resources>
          
     </Application.Resources>

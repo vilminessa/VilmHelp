@@ -22,6 +22,10 @@ namespace VilmHelp.Windows
         public Start_Base()
         {
             InitializeComponent();
+            Height = 400;
+            Width = 800;
+            WindowStartupLocation = WindowStartupLocation.CenterScreen;
+            Base_Frame.Content = new Pages.Base();
         }
     }
 }

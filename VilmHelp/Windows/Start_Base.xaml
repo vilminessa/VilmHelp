@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:VilmHelp.Windows"
         mc:Ignorable="d"
-        Title="Start_Base" Height="200" Width="400">
+        Title="Start_Base" MinHeight="200" MinWidth="400">
     <Grid>
-        
+        <Frame x:Name="Base_Frame" NavigationUIVisibility="Hidden" Background="Transparent">
+
+        </Frame>
     </Grid>
 </Window>
